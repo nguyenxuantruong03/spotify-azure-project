@@ -1,0 +1,15 @@
+{
+	"name": "datafactorysportifyproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc72f357-a8bb-4f25-87e5-d8310c56a724",
+		"tenantId": "91edaf56-3045-47b7-b930-a98b4daa060a"
+	}
+}
